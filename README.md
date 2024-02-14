@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Mario Valentinov</h1>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47ydp0tsdjzrb45ywkh3oac2m6wc1ceyn7lnax48ny&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikimario&label=Profile%20views&color=0e75b6&style=flat" alt="rikimario" /> </p>
 
