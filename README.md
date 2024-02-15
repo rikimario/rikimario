@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikimario&label=Profile%20views&color=0e75b6&style=flat" alt="rikimario" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Tailwind and Node.js**
 
 - 📫 How to reach me **mario_martinov@abv.bg**
 
