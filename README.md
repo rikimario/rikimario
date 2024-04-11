@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Tailwind and Node.js**
 
-- 📫 How to reach me **mario_martinov@abv.bg**
+- 📫 How to reach me **mariovalentinov92@gmail.com**
 
 - ⚡ Fun fact **The cubicle did not get its name from its shape, but from the Latin “cubiculum” meaning bed chamber.**
 
